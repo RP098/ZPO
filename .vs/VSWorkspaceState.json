@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WzorceProjektowe",
+    "\\WzorceProjektowe\\Strategia"
   ],
-  "SelectedNode": "\\Strategia.sln",
+  "SelectedNode": "\\WzorceProjektowe\\Strategia\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
