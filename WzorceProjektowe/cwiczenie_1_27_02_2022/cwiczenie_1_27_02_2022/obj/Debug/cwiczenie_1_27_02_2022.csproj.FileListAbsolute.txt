@@ -1,7 +1,0 @@
-B:\1_C#\WzorceProjektowe\cwiczenie_1_27_02_2022\cwiczenie_1_27_02_2022\bin\Debug\cwiczenie_1_27_02_2022.exe.config
-B:\1_C#\WzorceProjektowe\cwiczenie_1_27_02_2022\cwiczenie_1_27_02_2022\bin\Debug\cwiczenie_1_27_02_2022.exe
-B:\1_C#\WzorceProjektowe\cwiczenie_1_27_02_2022\cwiczenie_1_27_02_2022\bin\Debug\cwiczenie_1_27_02_2022.pdb
-B:\1_C#\WzorceProjektowe\cwiczenie_1_27_02_2022\cwiczenie_1_27_02_2022\obj\Debug\cwiczenie_1_27_02_2022.csproj.AssemblyReference.cache
-B:\1_C#\WzorceProjektowe\cwiczenie_1_27_02_2022\cwiczenie_1_27_02_2022\obj\Debug\cwiczenie_1_27_02_2022.csproj.CoreCompileInputs.cache
-B:\1_C#\WzorceProjektowe\cwiczenie_1_27_02_2022\cwiczenie_1_27_02_2022\obj\Debug\cwiczenie_1_27_02_2022.exe
-B:\1_C#\WzorceProjektowe\cwiczenie_1_27_02_2022\cwiczenie_1_27_02_2022\obj\Debug\cwiczenie_1_27_02_2022.pdb
