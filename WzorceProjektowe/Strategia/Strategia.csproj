@@ -56,5 +56,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SymulatorKaczek\SymulatorKaczek.csproj">
+      <Project>{1c71c886-7c12-4565-bc0d-b2ab067148d5}</Project>
+      <Name>SymulatorKaczek</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
