@@ -1,0 +1,6 @@
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad4\bin\Debug\Zad4.dll
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad4\bin\Debug\Zad4.pdb
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad4\obj\Debug\Zad4.csproj.AssemblyReference.cache
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad4\obj\Debug\Zad4.csproj.CoreCompileInputs.cache
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad4\obj\Debug\Zad4.dll
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad4\obj\Debug\Zad4.pdb

@@ -1,0 +1,12 @@
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad5\bin\Debug\Zad5.dll
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad5\bin\Debug\Zad5.pdb
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad5\obj\Debug\Zad5.csproj.AssemblyReference.cache
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad5\obj\Debug\Zad5.csproj.CoreCompileInputs.cache
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad5\obj\Debug\Zad5.dll
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Zad5\obj\Debug\Zad5.pdb
+B:\IISTOPNIA\ZPO\Obserwator\Zad5\bin\Debug\Zad5.dll
+B:\IISTOPNIA\ZPO\Obserwator\Zad5\bin\Debug\Zad5.pdb
+B:\IISTOPNIA\ZPO\Obserwator\Zad5\obj\Debug\Zad5.csproj.AssemblyReference.cache
+B:\IISTOPNIA\ZPO\Obserwator\Zad5\obj\Debug\Zad5.csproj.CoreCompileInputs.cache
+B:\IISTOPNIA\ZPO\Obserwator\Zad5\obj\Debug\Zad5.dll
+B:\IISTOPNIA\ZPO\Obserwator\Zad5\obj\Debug\Zad5.pdb
