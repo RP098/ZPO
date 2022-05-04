@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Singleton", "Singleton.csproj", "{15C4B395-1DEE-4C01-AAC8-CF7E026330F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zad4_Wspolbiezny", "..\Zad4_Wspolbiezny\Zad4_Wspolbiezny.csproj", "{CC2DBEA4-3AF8-4E57-AF43-6FA52957EA7D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15C4B395-1DEE-4C01-AAC8-CF7E026330F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C4B395-1DEE-4C01-AAC8-CF7E026330F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C4B395-1DEE-4C01-AAC8-CF7E026330F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C4B395-1DEE-4C01-AAC8-CF7E026330F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC2DBEA4-3AF8-4E57-AF43-6FA52957EA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC2DBEA4-3AF8-4E57-AF43-6FA52957EA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC2DBEA4-3AF8-4E57-AF43-6FA52957EA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC2DBEA4-3AF8-4E57-AF43-6FA52957EA7D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E62DD90-7E02-4F29-92DD-FA0DA22EEDC0}
+	EndGlobalSection
+EndGlobal
