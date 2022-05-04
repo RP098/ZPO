@@ -1,7 +1,0 @@
-Styczeń:20000
-Luty:23000
-Marzec:202300
-Kwiecień:20020
-Maj:20320
-Czerwiec:2330
-Lipiec:424440
