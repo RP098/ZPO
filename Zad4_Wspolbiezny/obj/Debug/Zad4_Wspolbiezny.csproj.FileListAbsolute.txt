@@ -1,0 +1,6 @@
+B:\IISTOPNIA\ZPO\Singleton\Zad4_Wspolbiezny\bin\Debug\Zad4_Wspolbiezny.dll
+B:\IISTOPNIA\ZPO\Singleton\Zad4_Wspolbiezny\bin\Debug\Zad4_Wspolbiezny.pdb
+B:\IISTOPNIA\ZPO\Singleton\Zad4_Wspolbiezny\obj\Debug\Zad4_Wspolbiezny.csproj.AssemblyReference.cache
+B:\IISTOPNIA\ZPO\Singleton\Zad4_Wspolbiezny\obj\Debug\Zad4_Wspolbiezny.csproj.CoreCompileInputs.cache
+B:\IISTOPNIA\ZPO\Singleton\Zad4_Wspolbiezny\obj\Debug\Zad4_Wspolbiezny.dll
+B:\IISTOPNIA\ZPO\Singleton\Zad4_Wspolbiezny\obj\Debug\Zad4_Wspolbiezny.pdb
