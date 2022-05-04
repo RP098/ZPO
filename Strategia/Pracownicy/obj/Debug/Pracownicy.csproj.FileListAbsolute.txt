@@ -1,0 +1,12 @@
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Pracownicy\bin\Debug\Pracownicy.dll
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Pracownicy\bin\Debug\Pracownicy.pdb
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Pracownicy\obj\Debug\Pracownicy.csproj.AssemblyReference.cache
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Pracownicy\obj\Debug\Pracownicy.csproj.CoreCompileInputs.cache
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Pracownicy\obj\Debug\Pracownicy.dll
+B:\1_C#\WzorceProjektowe\ZPO\WzorceProjektowe\Pracownicy\obj\Debug\Pracownicy.pdb
+B:\IISTOPNIA\ZPO\Strategia\Pracownicy\bin\Debug\Pracownicy.dll
+B:\IISTOPNIA\ZPO\Strategia\Pracownicy\bin\Debug\Pracownicy.pdb
+B:\IISTOPNIA\ZPO\Strategia\Pracownicy\obj\Debug\Pracownicy.csproj.AssemblyReference.cache
+B:\IISTOPNIA\ZPO\Strategia\Pracownicy\obj\Debug\Pracownicy.csproj.CoreCompileInputs.cache
+B:\IISTOPNIA\ZPO\Strategia\Pracownicy\obj\Debug\Pracownicy.dll
+B:\IISTOPNIA\ZPO\Strategia\Pracownicy\obj\Debug\Pracownicy.pdb
