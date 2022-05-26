@@ -1,0 +1,6 @@
+B:\IISTOPNIA\ZPO\2Fabryka\Transport\bin\Debug\Transport.dll
+B:\IISTOPNIA\ZPO\2Fabryka\Transport\bin\Debug\Transport.pdb
+B:\IISTOPNIA\ZPO\2Fabryka\Transport\obj\Debug\Transport.csproj.AssemblyReference.cache
+B:\IISTOPNIA\ZPO\2Fabryka\Transport\obj\Debug\Transport.csproj.CoreCompileInputs.cache
+B:\IISTOPNIA\ZPO\2Fabryka\Transport\obj\Debug\Transport.dll
+B:\IISTOPNIA\ZPO\2Fabryka\Transport\obj\Debug\Transport.pdb

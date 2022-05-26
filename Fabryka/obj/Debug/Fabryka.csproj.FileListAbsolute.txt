@@ -1,0 +1,14 @@
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\bin\Debug\Fabryka.exe.config
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\bin\Debug\Fabryka.exe
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\bin\Debug\Fabryka.pdb
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\bin\Debug\ProgramPocztowy.dll
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\bin\Debug\ProgramPocztowy.pdb
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\obj\Debug\Fabryka.csproj.AssemblyReference.cache
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\obj\Debug\Fabryka.csproj.CoreCompileInputs.cache
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\obj\Debug\Fabryka.csproj.CopyComplete
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\obj\Debug\Fabryka.exe
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\obj\Debug\Fabryka.pdb
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\bin\Debug\Transport.dll
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\bin\Debug\Transport.pdb
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\bin\Debug\SalonMeblowy.dll
+B:\IISTOPNIA\ZPO\2Fabryka\Fabryka\bin\Debug\SalonMeblowy.pdb

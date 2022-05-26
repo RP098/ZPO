@@ -1,0 +1,6 @@
+B:\IISTOPNIA\ZPO\2Fabryka\ProgramPocztowy\bin\Debug\ProgramPocztowy.dll
+B:\IISTOPNIA\ZPO\2Fabryka\ProgramPocztowy\bin\Debug\ProgramPocztowy.pdb
+B:\IISTOPNIA\ZPO\2Fabryka\ProgramPocztowy\obj\Debug\ProgramPocztowy.csproj.AssemblyReference.cache
+B:\IISTOPNIA\ZPO\2Fabryka\ProgramPocztowy\obj\Debug\ProgramPocztowy.csproj.CoreCompileInputs.cache
+B:\IISTOPNIA\ZPO\2Fabryka\ProgramPocztowy\obj\Debug\ProgramPocztowy.dll
+B:\IISTOPNIA\ZPO\2Fabryka\ProgramPocztowy\obj\Debug\ProgramPocztowy.pdb

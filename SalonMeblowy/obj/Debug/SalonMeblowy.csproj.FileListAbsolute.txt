@@ -1,0 +1,6 @@
+B:\IISTOPNIA\ZPO\2Fabryka\SalonMeblowy\bin\Debug\SalonMeblowy.dll
+B:\IISTOPNIA\ZPO\2Fabryka\SalonMeblowy\bin\Debug\SalonMeblowy.pdb
+B:\IISTOPNIA\ZPO\2Fabryka\SalonMeblowy\obj\Debug\SalonMeblowy.csproj.AssemblyReference.cache
+B:\IISTOPNIA\ZPO\2Fabryka\SalonMeblowy\obj\Debug\SalonMeblowy.csproj.CoreCompileInputs.cache
+B:\IISTOPNIA\ZPO\2Fabryka\SalonMeblowy\obj\Debug\SalonMeblowy.dll
+B:\IISTOPNIA\ZPO\2Fabryka\SalonMeblowy\obj\Debug\SalonMeblowy.pdb
